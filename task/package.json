@@ -1,0 +1,17 @@
+{
+  "name": "node_porgrams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "access_module.js",
+  "scripts": {
+    "test": "nodemon programs/test.js",
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "swagger-jsdoc": "^6.2.4",
+    "swagger-ui-express": "^4.5.0"
+  }
+}
